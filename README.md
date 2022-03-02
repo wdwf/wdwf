@@ -4,7 +4,7 @@
 - 🔭 Em busca de uma vaga para front-end em React.
 - 🌱 Estudando Javascript e Typescript.
 - 📝 Estou me graduando em Analise e Desenvolvimento de Sistemas.
-- ✨ Eu tento ajudar as pessoas que estão querendo iniciar neste mundo da programação. 
+- ✨ Eu monto grupos de estudos para ajudar as pessoas que estão querendo iniciar neste mundo da programação. 
 
 <div align="center">
   <a href="https://beacons.ai/wdwf">
