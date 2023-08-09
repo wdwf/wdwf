@@ -1,10 +1,10 @@
-## Eai! Eu sou o Weslley Ferreira 👋
+## Olá! Eu sou o Weslley Ferreira 👋
 
 ### Sobre mim:
 - 🔭 Em busca de uma vaga para front-end em React.
 - 🌱 Estudando Javascript e Typescript.
-- 📝 Estou me graduando em Analise e Desenvolvimento de Sistemas.
-- ✨ Eu monto grupos de estudos para ajudar as pessoas que estão querendo iniciar neste mundo da programação. 
+- 📝 Estou me graduando em Análise e Desenvolvimento de Sistemas.
+- ✨ Eu monto grupos de estudos para ajudar as pessoas que querem iniciar neste mundo da programação. 
 
 <div align="center">
   <a href="https://beacons.ai/wdwf">
@@ -22,7 +22,7 @@
   <img align="center" alt="Wdwf-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 </div>
   
-### A ser estudados em um futuro proximo:
+### A ser estudados em um futuro próximo:
 <div style="display: inline_block"><br>
   <img align="center" alt="Wdwf-Elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" />
   <img align="center" alt="Wdwf-Phoenix" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />
