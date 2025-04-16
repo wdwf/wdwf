@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Weslley Ferreira 👋
 
 ### Sobre mim:
-- 🔭 Em busca de uma vaga para front-end em React.
-- 🌱 Estudando Javascript e Typescript.
-- 📝 Estou me graduando em Análise e Desenvolvimento de Sistemas.
-- ✨ Eu monto grupos de estudos para ajudar as pessoas que querem iniciar neste mundo da programação. 
+- 🔭 Em busca de uma vaga para desenvolvimento web.
+- 🌱 Estudando Java e Typescript.
+- 📝 Sou graduado em Análise e Desenvolvimento de Sistemas.
+- ✨ Sempre em busca de resultados positivos. 
 
 <div align="center">
   <a href="https://beacons.ai/wdwf">
